@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import Data from './data'
 import {FiChevronRight, FiChevronLeft} from "react-icons/fi"
 import {FaQuoteRight} from "react-icons/fa"
